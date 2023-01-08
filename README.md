@@ -6,9 +6,9 @@ This python code scrapes reviews of an Loan provider company from the Consumer a
 
 
 # Skills used:
-1.Python- Webscraping- BeautifulSoup
+1. Python- Webscraping- BeautifulSoup
 
-2.EDA- Python- Pandas
+2. EDA- Python- Pandas
 
 3. Sentiment Analysis- Natural Language Tool Kit
 
